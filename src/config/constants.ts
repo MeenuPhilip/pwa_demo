@@ -1,0 +1,1 @@
+export const NO_MATCH ='Sorry...Could not find any matches';
